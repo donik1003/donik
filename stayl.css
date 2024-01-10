@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper .card{
+    width: inline- block;
+    margin: auto;
+}
+
+.wrapper.card{
+    display: inline-block;
+    width: 47%;
+    height: 500px;
+    background-image:;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 50px;
+}
+
+.wrapper .card2 {
+    display: inline-block;
+    width: 47%;
+    height: 500px;
+    vertical-align: top;
+    padding: 50px;
+
+}
+
+.wrapper .card2 form{
+    padding: 20px;
+}
+
+.wrapper .card2 form input{
+    margin: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+
+}
+
+.wrapper .card1 .p0{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.wrapper .card1.p1{
+    color: white;
+    padding: 10px;
+}
+  
+   .wrapper .card2 form h1{
+    color: #000;
+    font-size: 32px;
+    margin: 0px 0px 30px 0px;
+   }
+
+   .wrapper .card2 form {
+
+   }
